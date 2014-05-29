@@ -12,7 +12,7 @@ using namespace cv;
 Size im_size = Size(320, 240);
 
 //--Classifier constants--//
-int min_neighbours = 20;
+int min_neighbours = 21;
 double scale_factor = 1.1;
 Size min_size = Size(), max_size = Size();
 Size window_size = im_size;
